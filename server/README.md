@@ -1,3 +1,3 @@
 ## Installation
-- install dependencies (`npm i`)
+- install dependencies (`npm install`)
 - start server with the index.js (`node index.js` || `npm start`)
